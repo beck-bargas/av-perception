@@ -22,7 +22,7 @@ training data provided by KITTI dataset.
 ## Installation
 1. **Clone the repository**  
     ```bash
-    git clone https://github.com/beckarama/av-perception.git
+    git clone https://github.com/beck-bargas/av-perception.git
     cd av-perception
     ```
 
